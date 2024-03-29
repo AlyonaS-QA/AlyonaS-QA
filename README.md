@@ -1,13 +1,13 @@
 **Привет!**
 
-**О себе:**
-Стадникова Алёна
-По профессии ветеринарный врач, но сейчас активно развиваюсь в сфере **тестирования.** 
+**О себе:**  
+Стадникова Алёна  
+По профессии ветеринарный врач, но сейчас активно развиваюсь в сфере **тестирования.**   
 
-https://t.me/alyona_stadnikova
+https://t.me/alyona_stadnikova  
 astadnikova074@gmail.com
 
-**Hard Skills**
+**Hard Skills**  
 • **Testing:** Theory, methodologies, test design techniques  
 • **Documentation:** Test cases, checklists, bug reports  
 • **Network:** Client-server architecture, HTTP, JSON, XML, OSI model  
