@@ -4,7 +4,7 @@
 Стадникова Алёна  
 По профессии ветеринарный врач, но сейчас активно развиваюсь в сфере **тестирования.**   
 
-t.me/alyona_stadnikova  
+www.t.me/alyona_stadnikova  
 astadnikova074@gmail.com
 
 **Hard Skills**  
