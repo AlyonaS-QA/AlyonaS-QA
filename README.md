@@ -9,7 +9,7 @@ astadnikova074@gmail.com
 
 **Hard Skills**  
 • **Testing:** Theory, methodologies, test design techniques  
-• **Documentation:** Test cases, checklists, bug reports  
+• **Documentation:** Test cases, checklists, bug reports  [Тестовое задание](https://docs.google.com/document/d/1cjf0Bus2lTOGiLYFhQyuqBeDQ0EglboU8vKs4hEykcY/edit?usp=sharing)  
 • **Network:** Client-server architecture, HTTP, JSON, XML, OSI model  
 • **Tools:** Chrome DevTools, Postman, Swagger, Charles  
 • **Issue trackers:** YouTrack, Qase.io  
